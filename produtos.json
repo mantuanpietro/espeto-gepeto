@@ -69,6 +69,6 @@
         "description": "Medalhão de frango rechado com queijo, envolto em bacon e grelhado.",
         "price": 15.90,
         "imageSrc": "/Produtos/Espeto de coracao.png",
-        "destaque": true
+        "destaque": false
     }
 ]
