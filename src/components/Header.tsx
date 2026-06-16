@@ -1,5 +1,9 @@
 import Link from "next/link";
 import Image from "next/image";
+import {useState} from "react";
+import { Menu } from "lucide-react";
+
+const =
 
 export default function Header() {
   return (

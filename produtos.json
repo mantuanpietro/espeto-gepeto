@@ -64,11 +64,11 @@
         "destaque": true
     },
     {
-        "id": 8,
-        "title": "Medalhão",
-        "description": "Medalhão de frango rechado com queijo, envolto em bacon e grelhado.",
-        "price": 15.90,
-        "imageSrc": "/Produtos/Espeto de coracao.png",
+        "id": 9,
+        "title": "Queijo",
+        "description": "Queijo coalho grelhado, temperado com orégano e azeite de oliva.",
+        "price": 11.90,
+        "imageSrc": "/Produtos/Espeto de queijo.png",
         "destaque": false
     }
 ]
