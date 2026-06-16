@@ -4,7 +4,7 @@
         "title": "Carne",
         "description": "Espeto de carne bovina grelhada, temperada com especiarias.",
         "price": 11.90,
-        "imageSrc": "/produtos/espeto de carne.png",
+        "imageSrc": "/Produtos/Espeto de carne.png",
         "destaque": true
     },
     {
@@ -12,7 +12,7 @@
         "title": "Coração de frango",
         "description": "Espeto de coração de frango grelhado com alho e especiarias.",
         "price": 11.90,
-        "imageSrc": "/produtos/Espeto de coracao.png",
+        "imageSrc": "/Produtos/Espeto de coracao.png",
         "destaque": false
     },
     {
@@ -20,7 +20,7 @@
         "title": "Frango",
         "description": "Espeto de frango grelhado com alho e ervas aromáticas.",
         "price": 11.90,
-        "imageSrc": "/produtos/Espeto de frango.png",
+        "imageSrc": "/Produtos/Espeto de frango.png",
         "destaque": false
     },
     {
@@ -28,7 +28,7 @@
         "title": "Kafta",
         "description": "Espeto de carne bovina grelhada, temperada com especiarias.",
         "price": 11.90,
-        "imageSrc": "/produtos/Espeto de kafta.png",
+        "imageSrc": "/Produtos/Espeto de kafta.png",
         "destaque": true
     },
     {
@@ -36,7 +36,7 @@
         "title": "Linguiça",
         "description": "Linguiça artesanal grelhada com pimentão e cebola.",
         "price": 11.90,
-        "imageSrc": "/produtos/Espeto de linguica.png",
+        "imageSrc": "/Produtos/Espeto de linguica.png",
         "destaque": false
     },
     {
@@ -44,7 +44,7 @@
         "title": "Camarão",
         "description": "Camarão fresco grelhado com manteiga de alho e limão.",
         "price": 15.90,
-        "imageSrc": "/produtos/Espeto de camarao.png",
+        "imageSrc": "/Produtos/Espeto de camarao.png",
         "destaque": false
     },
     {
@@ -52,7 +52,7 @@
         "title": "Vegetariano",
         "description": "Mix de vegetais grelhados: pimentão, cebola, tomate e brócolis.",
         "price": 13.90,
-        "imageSrc": "/produtos/Espeto vegetariano.png",
+        "imageSrc": "/Produtos/Espeto vegetariano.png",
         "destaque": false
     },
     {
@@ -60,7 +60,15 @@
         "title": "Medalhão",
         "description": "Medalhão de frango rechado com queijo, envolto em bacon e grelhado.",
         "price": 15.90,
-        "imageSrc": "/produtos/Espeto de medalhao.png",
+        "imageSrc": "/Produtos/Espeto de medalhao.png",
+        "destaque": true
+    },
+    {
+        "id": 8,
+        "title": "Medalhão",
+        "description": "Medalhão de frango rechado com queijo, envolto em bacon e grelhado.",
+        "price": 15.90,
+        "imageSrc": "/Produtos/Espeto de coracao.png",
         "destaque": true
     }
 ]
