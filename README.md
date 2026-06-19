@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Espeto_Gepeto-🔥-orange?style=for-the-badge&logoColor=white" alt="Logo Espeto Gepeto" />
+  <img src="https://espeto-gepeto.vercel.app/" alt="Logo Espeto Gepeto" />
   
   <p align="center">
     <strong>A vitrine digital moderna para explorar o cardápio, produtos em destaque e entrar em contato com a espetaria!</strong>
