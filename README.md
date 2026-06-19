@@ -77,10 +77,11 @@ espeto-gepeto/
 │   └── 📁 styles/        # Estilos globais e temas do Tailwind
 ├── 📄 package.json       # Scripts de execução e dependências
 └── 📄 tailwind.config.js # Customizações visuais do tema do projeto
+---
 
 ##🚀 Passo a Passo de Instalação e Execução
-Siga o guia abaixo para rodar o projeto localmente em sua máquina.
 
+```bash
 📋 Pré-requisitos
 Antes de iniciar, certifique-se de ter instalado:
 
