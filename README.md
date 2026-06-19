@@ -1,18 +1,8 @@
+![Espeto Gepeto](https://img.shields.io/badge/Espeto_Gepeto-🔥-orange?style=for-the-badge&logoColor=white)
 
-<div align="center">
-<img src="https://img.shields.io/badge/Espeto_Gepeto-🔥-orange?style=for-the-badge&logoColor=white" alt="Logo Espeto Gepeto" />
-  
-  <p align="center">
-    <strong>A vitrine digital moderna para explorar o cardápio, produtos em destaque e entrar em contato com a espetaria!</strong>
-  </p>
+**A vitrine digital moderna para explorar o cardápio, produtos em destaque e entrar em contato com a espetaria!**
 
-  <p align="center">
-    <a href="#-sobre-o-projeto">Sobre</a> •
-    <a href="#-demonstração--hospedagem">Hospedagem</a> •
-    <a href="#-funcionalidades">Funcionalidades</a> •
-    <a href="#-arquitetura-e-pastas">Estrutura</a> •
-    <a href="#-passo-a-passo-de-instalação-e-execução">Instalação</a> •
-  </p>
+[Sobre](#-sobre-o-projeto) • [Hospedagem](#-demonstração--hospedagem) • [Funcionalidades](#-funcionalidades) • [Estrutura](#-arquitetura-e-pastas) • [Instalação](#-passo-a-passo-de-instalação-e-execução)
 
 ---
 
@@ -29,10 +19,9 @@ O projeto já está publicado e pronto para uso! Você pode acessar a aplicaçã
 🔗 **Link do Projeto:** [Acessar Espeto Gepeto na Vercel](https://espeto-gepeto.vercel.app/?authuser=0)
 
 ### 📸 Prévia da Interface
-<div align="center">
-  <img src="/public/previa.png" />
-  <p><em>Interface interativa: Cardápio responsivo e visualização de produtos.</em></p>
-</div>
+
+<img src="/public/previa.png" alt="Prévia da Interface" />
+<p><em>Interface interativa: Cardápio responsivo e visualização de produtos.</em></p>
 
 ---
 
@@ -71,42 +60,3 @@ espeto-gepeto/
 │   └── 📁 styles/        # Estilos globais e temas do Tailwind
 ├── 📄 package.json       # Scripts de execução e dependências
 └── 📄 tailwind.config.js # Customizações visuais do tema do projeto
----
-````
-## 🚀 Passo a Passo de Instalação e Execução
-Siga o guia abaixo para rodar o projeto localmente em sua máquina.
-
-```bash
-📋 Pré-requisitos
-Antes de iniciar, certifique-se de ter instalado:
-
-Git
-
-Node.js (versão 18.x ou superior)
-
-NPM (gerenciador padrão do Node)
-
-🛠️ Execução Local
-1. Clonar o Repositório
-Abra o seu terminal e execute:
-
-Bash
-git clone https://github.com/mantuanpietro/espeto-gepeto.git 
-2. Acessar a Pasta
-Navegue até o diretório do projeto:
-
-Bash
-cd espeto-gepeto
-3. Instalar Dependências
-Baixe os pacotes necessários:
-
-Bash
-npm install
-4. Iniciar o Servidor de Desenvolvimento
-Coloque o projeto para rodar:
-
-Bash
-npm run dev
-💻 Acessando o App
-Assim que a inicialização terminar, abra seu navegador e digite o endereço:
-👉 http://localhost:3000
