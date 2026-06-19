@@ -80,6 +80,7 @@ espeto-gepeto/
 ---
 ````
 ## 🚀 Passo a Passo de Instalação e Execução
+Siga o guia abaixo para rodar o projeto localmente em sua máquina.
 
 ```bash
 📋 Pré-requisitos
