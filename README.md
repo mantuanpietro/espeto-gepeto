@@ -68,7 +68,7 @@ O sistema conta com as seguintes seções estruturadas para o usuário final:
 
 A organização de pastas reflete a divisão das páginas e componentes de exibição:
 
-```bash
+
 espeto-gepeto/
 ├── 📁 public/            # Imagens dos espetos, ícones e logos do estabelecimento
 ├── 📁 src/               # Código-fonte principal do app
