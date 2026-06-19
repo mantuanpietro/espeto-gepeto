@@ -12,7 +12,6 @@
     <a href="#-funcionalidades">Funcionalidades</a> •
     <a href="#-arquitetura-e-pastas">Estrutura</a> •
     <a href="#-passo-a-passo-de-instalação-e-execução">Instalação</a> •
-    <a href="#-contribuidores">Contribuidores</a>
   </p>
 
   <img src="https://img.shields.io/github/stars/mantuanpietro/espeto-gepeto?style=social" alt="Stars" />
