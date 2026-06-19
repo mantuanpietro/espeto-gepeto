@@ -1,4 +1,3 @@
-# 🍢 Espeto Gepeto — Vitrine Digital e Cardápio Interativo
 
 <div align="center">
   <img src="https://img.shields.io/badge/Espeto_Gepeto-🔥-orange?style=for-the-badge&logoColor=white" alt="Logo Espeto Gepeto" />
