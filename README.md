@@ -40,7 +40,7 @@ O projeto já está publicado e pronto para uso em ambiente de produção! Você
 
 ### 📸 Prévia da Interface
 <div align="center">
-  <img src="<img width="1907" height="798" alt="image" src="https://github.com/user-attachments/assets/bd4af2db-0d2c-4b29-b255-a557135d3ec5" />
+  <img src="<img width="1907" height="798" alt="image" src="https://espeto-gepeto.vercel.app/" />
 " alt="Demonstração do Espeto Gepeto" width="85%" style="border-radius: 10px; border: 2px solid #ff5722;" />
   <p><em>Interface operacional: Gestão ágil do status da grelha e monitoramento de pedidos em tempo real.</em></p>
 </div>
