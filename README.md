@@ -47,7 +47,7 @@ O projeto já está publicado e pronto para uso! Você pode acessar a aplicaçã
 O sistema conta com as seguintes seções estruturadas para o usuário final:
 
 * 📖 **Cardápio de Produtos completo:** Listagem organizada e visual de todos os espetos, bebidas e acompanhamentos disponíveis, facilitando a escolha do cliente.
-* ⭐ **Produtos em Destaque:** Espaço na página principal reservado para destacar os carros-chefes da espetaria ou promoções especiais do dia.
+* ⭐ **Produtos em Destaque:** Espaço na página principal reservado para destacar os carros-chefes da espetaria.
 * 📞 **Página de Contato:** Seção dedicada com informações de localização, horários de funcionamento e canais de atendimento direto.
 * 📱 **Design Responsivo:** Interface otimizada tanto para telas de computadores quanto para smartphones (ideal para o cliente consultar o cardápio direto do celular).
 
