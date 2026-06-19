@@ -40,7 +40,7 @@ O projeto já está publicado e pronto para uso em ambiente de produção! Você
 
 ### 📸 Prévia da Interface
 <div align="center">
-  <img src="<img width="1907" height="798" alt="image" src="" />
+  <img src="" />
   <p><em>Interface operacional: Gestão ágil do status da grelha e monitoramento de pedidos em tempo real.</em></p>
 </div>
 
