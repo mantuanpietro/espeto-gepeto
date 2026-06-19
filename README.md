@@ -14,11 +14,6 @@
     <a href="#-passo-a-passo-de-instalação-e-execução">Instalação</a> •
   </p>
 
-  <img src="https://img.shields.io/github/stars/mantuanpietro/espeto-gepeto?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/mantuanpietro/espeto-gepeto?style=social" alt="Forks" />
-  <img src="https://img.shields.io/github/license/mantuanpietro/espeto-gepeto?style=flat-square&color=orange" alt="License" />
-</div>
-
 ---
 
 ## 📝 Sobre o Projeto
