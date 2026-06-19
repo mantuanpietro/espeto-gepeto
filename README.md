@@ -102,3 +102,66 @@ espeto-gepeto/
 ├── 📄 .env.example       # Modelo de configuração das variáveis locais
 ├── 📄 package.json       # Definição de scripts e dependências do Node.js
 └── 📄 tailwind.config.js # Customizações do design system do projeto
+
+🚀 Passo a Passo de Instalação e Execução
+Siga rigorosamente as instruções abaixo para clonar, configurar e rodar o projeto localmente em sua máquina de desenvolvimento.
+
+📋 Pré-requisitos
+Antes de iniciar, certifique-se de ter instalado em sua máquina:
+
+Git (para clonar o repositório).
+
+Node.js (versão 18.x ou superior recomendada).
+
+Um gerenciador de pacotes (NPM ou Yarn).
+
+🔧 1. Clonando o Repositório
+Abra o seu terminal e execute o comando abaixo para trazer o projeto para a sua máquina:
+
+Bash
+git clone [https://github.com/mantuanpietro/espeto-gepeto.git](https://github.com/mantuanpietro/espeto-gepeto.git)
+📂 2. Acessando a Pasta
+Entre no diretório do projeto recém-clonado:
+
+Bash
+cd espeto-gepeto
+📦 3. Instalando as Dependências
+Instale todos os pacotes e bibliotecas necessárias listadas no package.json:
+
+Bash
+# Se utilizar NPM:
+npm install
+
+# Se preferir utilizar Yarn:
+yarn install
+⚙️ 4. Configurando Variáveis de Ambiente
+Crie um arquivo .env na raiz do projeto com base no modelo existente:
+
+Bash
+cp .env.example .env
+Abra o arquivo .env gerado e preencha com as credenciais ou chaves necessárias para o banco de dados/autenticação local (caso aplicável).
+
+🔥 5. Executando a Aplicação
+Agora, inicialize o servidor de desenvolvimento local:
+
+Bash
+# Se utilizar NPM:
+npm run dev
+
+# Se utilizar Yarn:
+yarn dev
+Assim que o terminal indicar que a compilação foi concluída com sucesso, abra o seu navegador e acesse:
+👉 http://localhost:3000
+
+⚙️ Variáveis de Ambiente
+O arquivo .env configurado no passo anterior aceita os seguintes parâmetros de customização:
+
+Fragmento do código
+NEXT_PUBLIC_API_URL=http://localhost:3000/api
+NEXT_PUBLIC_AUTH_DOMAIN=seu-dominio-autenticacao
+# Adicione outras chaves essenciais do projeto aqui...
+👥 Contribuidores
+Quem tirou o projeto do papel e deu vida ao código:
+
+📄 Licença
+Este projeto está documentado sob a licença MIT. Sinta-se livre para clonar, modificar e distribuir, desde que mantenha os créditos originais.
