@@ -1,17 +1,20 @@
+# 🍢 Espeto Gepeto — Sistema Inteligente de Gestão de Espetarias
+
 <div align="center">
   <img src="https://img.shields.io/badge/Espeto_Gepeto-🔥-orange?style=for-the-badge&logoColor=white" alt="Logo Espeto Gepeto" />
   
   <p align="center">
-    <strong>Dando vida ao seu churrasco com tecnologia, automação e inteligência.</strong>
+    <strong>Transformando o controle de pedidos, brasa e estoque em uma experiência automatizada e dinâmica!</strong>
   </p>
 
   <p align="center">
     <a href="#-sobre-o-projeto">Sobre</a> •
+    <a href="#-demonstração--hospedagem">Hospedagem</a> •
     <a href="#-funcionalidades">Funcionalidades</a> •
-    <a href="#-tecnologias">Tecnologias</a> •
-    <a href="#-arquitetura">Arquitetura</a> •
-    <a href="#-como-rodar">Como Rodar</a> •
-    <a href="#-licença">Licença</a>
+    <a href="#-arquitetura-e-pastas">Estrutura</a> •
+    <a href="#-passo-a-passo-de-instalação-e-execução">Instalação</a> •
+    <a href="#-variáveis-de-ambiente">Configuração</a> •
+    <a href="#-contribuidores">Contribuidores</a>
   </p>
 
   <img src="https://img.shields.io/github/stars/mantuanpietro/espeto-gepeto?style=social" alt="Stars" />
@@ -23,58 +26,79 @@
 
 ## 📝 Sobre o Projeto
 
-O **Espeto Gepeto** é uma solução inteligente desenvolvida para [insira o objetivo principal, ex: gerenciar pedidos de uma espetaria / automatizar o ponto da carne / controlar estoque de churrascarias]. 
+O **Espeto Gepeto** é uma plataforma robusta desenvolvida para otimizar e gerenciar o fluxo operacional de espetarias e churrascarias modernas. O sistema unifica desde a entrada de pedidos dos clientes até a esteira de produção na brasa e o controle minucioso do estoque de insumos. 
 
-Assim como o mestre Gepeto transformou um pedaço de madeira inanimado em uma criatura cheia de vida, este projeto une código e engrenagens para transformar a experiência de fazer e gerenciar churrasco!
+Assim como o mestre Gepeto lapidou a madeira para criar vida, este software lapida processos analógicos e manuais para entregar uma gestão inteligente e em tempo real.
+
+---
+
+## 🌐 Demonstração & Hospedagem
+
+O projeto já está publicado e pronto para uso em ambiente de produção! Você pode acessar a aplicação online e testar a interface através do link abaixo:
+
+🔗 **Link do Projeto:** [Acessar Espeto Gepeto na Vercel](https://espeto-gepeto.vercel.app/?authuser=0)
+
+### 📸 Prévia da Interface
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1000&q=80" alt="Demonstração do Espeto Gepeto" width="85%" style="border-radius: 10px; border: 2px solid #ff5722;" />
+  <p><em>Interface operacional: Gestão ágil do status da grelha e monitoramento de pedidos em tempo real.</em></p>
+</div>
 
 ---
 
 ## ✨ Funcionalidades Principais
 
-Abra as seções abaixo para conferir os recursos do sistema:
-
 <details>
-<summary>📋 <b>Gestão de Pedidos e Espetos</b> (Clique para expandir)</summary>
+<summary>📋 <b>Gestão de Pedidos & Fila da Brasa</b> (Clique para expandir)</summary>
 <br>
 
-* **Controle de Estoque:** Monitoramento em tempo real dos tipos de espetos disponíveis (carne, medalhão, queijo coalho, etc.).
-* **Fila de Preparo:** Sistema de status para a churrasqueira (Na Brasa, No Ponto, Entregue).
+* **Fila Dinâmica de Preparo:** Acompanhe os espetos separados por categorias e estágios (*Aguardando*, *Na Brasa*, *No Ponto*, *Entregue*).
+* **Painel do Churrasqueiro:** Uma visualização limpa focada em quem está operando a brasa para evitar desperdícios ou atrasos.
+* **Histórico de Compras:** Registro detalhado dos consumos por mesa ou comanda do cliente.
 </details>
 
 <details>
-<summary>🤖 <b>Modo Inteligente (Gepeto AI / Automação)</b> (Clique para expandir)</summary>
+<summary>📊 <b>Controle de Estoque e Insumos</b> (Clique para expandir)</summary>
 <br>
 
-* **Cálculo de Insumos:** Algoritmo que prevê a quantidade de carvão e carne necessária com base no número de convidados/clientes.
-* **Alertas de Ponto:** [Se aplicável] Notificações automáticas quando o tempo estimado de preparo do espeto atinge o ideal.
+* **Alertas de Estoque Baixo:** Avisos visuais automáticos quando itens populares (ex: medalhão de frango, queijo coalho) atingem a quantidade crítica.
+* **Entrada e Saída Automatizada:** Abatimento automático dos espetos assim que o pedido é confirmado e enviado para a produção.
+</details>
+
+<details>
+<summary>🔐 <b>Segurança e Autenticação</b> (Clique para expandir)</summary>
+<br>
+
+* **Níveis de Acesso:** Separação entre a visão do Administrator (ajuste de preços, estoque) e a visão dos Garçons/Churrasqueiros.
+* **Persistência de Sessão:** Autenticação segura integrada para garantir a integridade dos dados operacionais.
 </details>
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
 
-O ecossistema do projeto foi construído com as seguintes ferramentas (ajuste conforme sua stack real):
-
-| Categoria | Tecnologia | Link de Referência |
+| Camada | Tecnologia | Badge |
 | :--- | :--- | :--- |
-| **Frontend** | `React.js` / `TailwindCSS` | [React](https://react.dev) |
-| **Backend** | `Node.js` / `Python (FastAPI)` | [Node](https://nodejs.org) |
-| **Banco de Dados**| `PostgreSQL` / `MongoDB` | [Postgres](https://www.postgresql.org) |
-| **DevOps** | `Docker` | [Docker](https://www.docker.com) |
+| **Frontend** | React / Next.js | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Estilização** | Tailwind CSS | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Hospedagem** | Vercel | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Gerenciador** | NPM / Yarn | ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) |
 
 ---
 
-## 📐 Estrutura do Projeto
+## 📐 Arquitetura e Pastas
 
-Abaixo está a organização principal de pastas do repositório:
+A estrutura do projeto segue as melhores práticas de organização de componentes e modularidade:
 
 ```bash
 espeto-gepeto/
-├── 📁 src/               # Código-fonte principal
-│   ├── 📁 components/    # Componentes visuais (Frontend)
-│   ├── 📁 controllers/   # Regras de negócio e rotas (Backend)
-│   └── 📁 models/        # Modelagem do banco de dados
-├── 📁 config/            # Variáveis de ambiente e configurações externas
-├── 📄 docker-compose.yml # Orquestração de containers
-├── 📄 package.json       # Dependências do projeto
-└── 📄 README.md          # Esta documentação
+├── 📁 public/            # Ativos estáticos (imagens, ícones, logos)
+├── 📁 src/               # Código-fonte principal do app
+│   ├── 📁 components/    # Componentes reutilizáveis (Botões, Cards, Modais)
+│   ├── 📁 hooks/         # Custom hooks para gerenciamento de estado e APIs
+│   ├── 📁 pages/         # Roteamento e telas principais da aplicação
+│   ├── 📁 styles/        # Configurações globais de CSS e temas do Tailwind
+│   └── 📁 utils/         # Funções auxiliares e formatadores (moeda, datas)
+├── 📄 .env.example       # Modelo de configuração das variáveis locais
+├── 📄 package.json       # Definição de scripts e dependências do Node.js
+└── 📄 tailwind.config.js # Customizações do design system do projeto
