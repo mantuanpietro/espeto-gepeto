@@ -77,3 +77,40 @@ espeto-gepeto/
 │   └── 📁 styles/        # Estilos globais e temas do Tailwind
 ├── 📄 package.json       # Scripts de execução e dependências
 └── 📄 tailwind.config.js # Customizações visuais do tema do projeto
+
+##🚀 Passo a Passo de Instalação e Execução
+Siga o guia abaixo para rodar o projeto localmente em sua máquina.
+
+📋 Pré-requisitos
+Antes de iniciar, certifique-se de ter instalado:
+
+Git
+
+Node.js (versão 18.x ou superior)
+
+NPM (gerenciador padrão do Node)
+
+🛠️ Execução Local
+1. Clonar o Repositório
+Abra o seu terminal e execute:
+
+Bash
+git clone [https://github.com/mantuanpietro/espeto-gepeto.git](https://github.com/mantuanpietro/espeto-gepeto.git)
+2. Acessar a Pasta
+Navegue até o diretório do projeto:
+
+Bash
+cd espeto-gepeto
+3. Instalar Dependências
+Baixe os pacotes necessários:
+
+Bash
+npm install
+4. Iniciar o Servidor de Desenvolvimento
+Coloque o projeto para rodar:
+
+Bash
+npm run dev
+💻 Acessando o App
+Assim que a inicialização terminar, abra seu navegador e digite o endereço:
+👉 http://localhost:3000
