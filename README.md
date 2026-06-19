@@ -79,7 +79,7 @@ espeto-gepeto/
 └── 📄 tailwind.config.js # Customizações visuais do tema do projeto
 ---
 ````
-##🚀 Passo a Passo de Instalação e Execução
+## 🚀 Passo a Passo de Instalação e Execução
 
 ```bash
 📋 Pré-requisitos
