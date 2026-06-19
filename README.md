@@ -96,7 +96,7 @@ NPM (gerenciador padrão do Node)
 Abra o seu terminal e execute:
 
 Bash
-git clone [https://github.com/mantuanpietro/espeto-gepeto.git](https://github.com/mantuanpietro/espeto-gepeto.git)
+git clone 
 2. Acessar a Pasta
 Navegue até o diretório do projeto:
 
