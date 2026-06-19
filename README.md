@@ -36,7 +36,7 @@ O projeto já está publicado e pronto para uso! Você pode acessar a aplicaçã
 
 ### 📸 Prévia da Interface
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1000&q=80" alt="Demonstração do Espeto Gepeto" width="85%" style="border-radius: 10px; border: 2px solid #ff5722;" />
+  <img src="/public/previa.png" />
   <p><em>Interface interativa: Cardápio responsivo e visualização de produtos.</em></p>
 </div>
 
